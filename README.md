@@ -1,5 +1,5 @@
 # Degree-Issuance-System-
-## Introducing the One Stop Services platform at FAST Islamabad, a comprehensive Software Engineering full-stack project meticulously crafted using C# and ASPX.net technologies. Built upon the principles of SCRUM, this innovative solution enhances agility and efficiency in the development process, ensuring seamless degree issuance procedures.
+## Introducing the One Stop Services platform at FAST Islamabad, a comprehensive Software Engineering full-stack project meticulously crafted using C#, ASPX.net, HTML, CSS, and JavaScript for design, with MySQL employed for database management. Built upon the principles of SCRUM, this innovative solution enhances agility and efficiency in the development process, ensuring seamless degree issuance procedures.
 
 ## Empowering students with a user-friendly interface, the system allows for the submission of degree issuance forms, lodging of complaints, and real-time tracking of request progress. Departments such as FYP and Finance are assigned specific roles within the system, enabling them to efficiently review and decide on degree issuance requests while adhering to SCRUM principles for iterative development.
 
