@@ -6,3 +6,6 @@
 ## Managed by the One Stop Admin, the platform orchestrates notifications, generates tokens for requests, and facilitates timely issuance of degrees upon completion. The Director Dashboard provides a comprehensive overview of daily requests, monitoring pending and processed requests, and tracking processing times by each department.
 
 ## This innovative full-stack project, developed using SCRUM methodology, exemplifies the principles of Software Engineering by enhancing administrative efficiency, fostering transparent communication, and ensuring a seamless degree issuance experience for students at FAST Islamabad.
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+  #      _______________________________________________________________________________USER INTEFACE OF PROJECT______________________________________________________________________________ 
