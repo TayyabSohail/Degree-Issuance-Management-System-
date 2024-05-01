@@ -23,12 +23,38 @@ IN CASE OF WRONG / INACCURATE INPUT
 
 ### STUDENT PANEL
 
-![Student_Info](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/5fe47ab3-74fd-4001-bebe-f9f12847c97d)
-![DI_Form](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/5f46fb4b-9a1a-46a1-a22a-9417a8978c5c)
-![Cmplaint_Form](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/5dabc20a-f10c-4db6-bb3a-d02d53765b49)
-![Recieve Degree](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/a84b2aeb-1346-4161-8848-7257952eef9a)
-![Feedback Form](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/9ebed20c-be70-4a6d-b549-85ee873e9e37)
+
+Logged in Students ID and Name is displayed
+Status Bars are displayed
+1st bar shows Overall Status (FYP and Finance Departments)
+2nd bar shows FYP Progress Bar
+3rd bar shows Finance Progress Bar
+
+
+NO DEPARTMENTS HAVE ACCEPTED THE DEGREE ISSUANCE REQUEST (DEGREE IS NOT ISSUED)
 ![Student_Info(2)](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/5b486b74-a894-4413-b23e-46829e69f2c4)
+
+
+ALL DEPARTMENTS HAVE ACCEPTED THE DEGREE ISSUANCE REQUEST (DEGREE IS ISSUED)
+![Student_Info](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/5fe47ab3-74fd-4001-bebe-f9f12847c97d)
+
+
+UI Degree Issuance Form
+![DI_Form](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/5f46fb4b-9a1a-46a1-a22a-9417a8978c5c)
+
+
+UI Complaint Issuance Form
+![Cmplaint_Form](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/5dabc20a-f10c-4db6-bb3a-d02d53765b49)
+
+
+UI When Degree is Issued 
+![Recieve Degree](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/a84b2aeb-1346-4161-8848-7257952eef9a)
+
+
+UI Feedback Form
+![Feedback Form](https://github.com/TayyabSohail/Degree-Issuance-Management-System-/assets/129260556/9ebed20c-be70-4a6d-b549-85ee873e9e37)
+
+
 
 
 
